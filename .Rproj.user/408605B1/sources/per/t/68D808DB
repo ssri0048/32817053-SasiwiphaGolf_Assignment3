@@ -3,7 +3,11 @@
     "path": "~/Downloads/32817053-SasiwiphaGolf_Assignment3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
+<<<<<<< HEAD:.Rproj.user/408605B1/sources/per/t/68D808DB
     "hash": "217964345",
+=======
+    "hash": "1011419975",
+>>>>>>> branch2:.Rproj.user/408605B1/sources/session-62e31a3/68D808DB
     "contents": "",
     "dirty": false,
     "created": 1684731436916.0,
@@ -13,6 +17,7 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD:.Rproj.user/408605B1/sources/per/t/68D808DB
         "cursorPosition": "27,17",
         "scrollLine": "15"
     },
@@ -22,6 +27,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1684731638606,
+=======
+        "cursorPosition": "27,16",
+        "scrollLine": "16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684731533,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684731533781,
+>>>>>>> branch2:.Rproj.user/408605B1/sources/session-62e31a3/68D808DB
     "read_only": false,
     "read_only_alternatives": []
 }

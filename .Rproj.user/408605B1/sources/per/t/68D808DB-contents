@@ -19,8 +19,13 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+<<<<<<< HEAD:.Rproj.user/408605B1/sources/per/t/68D808DB-contents
 ## Including Plots
 ### add from main again
+=======
+
+
+>>>>>>> branch2:.Rproj.user/408605B1/sources/session-62e31a3/68D808DB-contents
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
